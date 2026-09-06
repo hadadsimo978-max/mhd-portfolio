@@ -1,0 +1,8 @@
+:root {
+  --theme: #3b82f6 !important; /* Bleu clair corporate */
+  --primary: #3b82f6 !important;
+}
+.terminal {
+  --theme: #3b82f6 !important;
+  --primary: #3b82f6 !important;
+}
