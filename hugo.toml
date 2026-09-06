@@ -4,10 +4,10 @@ title = 'Mohamed Haddad | SecOps'
 theme = 'terminal'
 
 [params]
-  themeColor = 'green'
+  themeColor = 'blue'
 
 [params.logo]
-  logoText = 'mhd@root: ~'
+  logoText = 'mhaddad-sec@root: ~'
 
 [menu]
   [[menu.main]]
