@@ -4,7 +4,7 @@ title = 'Mohamed Haddad | SecOps'
 theme = 'terminal'
 
 [params]
-  customCSS = ["css/custom.css"]
+
 
 [params.logo]
   logoText = 'mhaddad-sec@root: ~'
