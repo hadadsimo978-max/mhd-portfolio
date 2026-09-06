@@ -4,7 +4,7 @@ title = 'Mohamed Haddad | SecOps'
 theme = 'terminal'
 
 [params]
-
+  readMore = "Lire la suite"
 
 [params.logo]
   logoText = 'mhaddad-sec@root: ~'
