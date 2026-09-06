@@ -24,4 +24,4 @@ Actuel **Team Leader** au Career Boot Camp 2026 et membre actif de la communautÃ
 *   **Email (Domaine) :** [contact@mhaddad-sec.me](mailto:contact@mhaddad-sec.me)
 *   **Email (Direct) :** [mhaddad.sec@gmail.com](mailto:mhaddad.sec@gmail.com)
 *   **LinkedIn :** [linkedin.com/in/mhaddad-sec](https://linkedin.com/in/mhaddad-sec/)
-*   **GitHub :** [github.com/hadadsimo978-max](https://github.com/hadadsimo978-max)
+*   **GitHub :** [github.com/mhaddad-sec](https://github.com/mhaddad-sec)
