@@ -1,13 +1,31 @@
+/* Variables globales */
 :root, .terminal {
   --theme: #3b82f6 !important;
   --primary: #3b82f6 !important;
 }
 
+/* Le fond du logo (mhd@root) */
 .logo__text {
   background-color: #3b82f6 !important;
   color: #111 !important;
 }
 
-a {
+/* Les barres verticales à côté du logo */
+.logo, .logo__cursor, .logo__mark {
+  color: #3b82f6 !important;
+}
+
+/* Les liens du menu (About, Projects) et liens globaux */
+a, .menu a, .menu__item a {
+  color: #3b82f6 !important;
+}
+
+/* La bordure des citations (>) */
+blockquote {
+  border-left-color: #3b82f6 !important;
+}
+
+/* Les lignes pointillées sous les titres de projets */
+.post-title::before, .post-title::after {
   color: #3b82f6 !important;
 }
