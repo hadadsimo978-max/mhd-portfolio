@@ -1,6 +1,8 @@
 ---
-title: "About Me"
+title: "Profil"
 ---
+
+# Mohamed Haddad
 
 > **Ingénieur d'État en Réseaux et Cybersécurité** | Spécialisé en infrastructures Zero Trust, micro-segmentation et environnements haute disponibilité.
 
@@ -16,3 +18,9 @@ Bienvenue sur mon espace technique. J'évolue à l'intersection des opérations 
 ### 📌 Engagement
 
 Actuel **Team Leader** au Career Boot Camp 2026 et membre actif de la communauté de cybersécurité **B-Secure** (2021-2024), je documente ici mes déploiements techniques, mes architectures de laboratoires (Cyber Ranges) et mes outils de Threat Intelligence.
+
+### 📬 Contact & Réseaux
+
+*   **Email :** [contact@mhaddad-sec.me](mailto:contact@mhaddad-sec.me)
+*   **LinkedIn :** [linkedin.com/in/mhaddad-sec](https://linkedin.com/in/mhaddad-sec/)
+*   **GitHub :** [github.com/hadadsimo978-max](https://github.com/hadadsimo978-max)
