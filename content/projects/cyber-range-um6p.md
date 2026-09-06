@@ -8,6 +8,8 @@ tags: ["Proxmox", "Docker", "Zero Trust", "pfSense", "Llama 3"]
 ## 📌 Contexte du Projet
 Dans le cadre de la formation pratique en cybersécurité à l'HEWB-UM6P, il était nécessaire de concevoir un environnement d'apprentissage sur mesure. L'objectif de ce projet de fin d'études était de construire un "Cyber Range" (champ de tir numérique) scalable, sécurisé et capable d'héberger des scénarios d'attaque et de défense complexes, tout en garantissant une isolation totale par rapport au réseau de production de l'université.
 
+<!--more-->
+
 ## 🏗️ Architecture Technique
 Pour répondre aux exigences de performance et de flexibilité, j'ai opté pour une approche hybride :
 * **Bare-Metal (Proxmox VE) :** Déploiement d'un cluster d'hyperviseurs pour héberger les machines virtuelles lourdes (Windows Server, cibles Active Directory, solutions SIEM).

@@ -8,6 +8,8 @@ tags: ["Proxmox HA", "TrueNAS", "GNS3", "VLAN", "Firewalling"]
 ## 📌 Contexte du Projet
 Lors de mon intégration à l'Office National des Aéroports (ONDA), l'objectif principal était de moderniser et de sécuriser l'infrastructure d'hébergement existante. L'enjeu était critique : garantir une continuité de service absolue (zéro downtime) pour les applications métiers de l'office.
 
+<!--more-->
+
 ## 🏗️ Architecture Haute Disponibilité (HA)
 Pour répondre aux exigences de résilience, j'ai conçu et déployé une architecture de virtualisation tolérante aux pannes :
 * **Cluster Proxmox VE :** Déploiement d'un cluster multi-nœuds en mode Haute Disponibilité (HA). En cas de défaillance matérielle d'un serveur, les machines virtuelles (VMs) basculent automatiquement sur un nœud sain.
