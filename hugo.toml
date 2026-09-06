@@ -1,0 +1,22 @@
+baseURL = 'https://mhaddad-sec.me/'
+languageCode = 'fr-fr'
+title = 'Mohamed Haddad | SecOps'
+theme = 'terminal'
+
+[params]
+  themeColor = 'green'
+
+[params.logo]
+  logoText = 'mhd@root: ~'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 10
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
+    weight = 20
